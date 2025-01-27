@@ -7,5 +7,14 @@ This project involves analyzing an eCommerce transactions dataset to perform Exp
 The dataset consists of three files:
 
 Customers.csv: Customer details, including CustomerID, CustomerName, Region, and SignupDate.
+
 Products.csv: Product details, including ProductID, ProductName, Category, and Price.
+
 Transactions.csv: Transaction details, including TransactionID, CustomerID, ProductID, TransactionDate, Quantity, TotalValue, and Price.
+
+
+
+
+
+
+
